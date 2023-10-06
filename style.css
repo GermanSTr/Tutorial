@@ -1,0 +1,15 @@
+#root {
+  display: flex;
+}
+
+.leftDiv {
+  width: 40%;
+  background-color: aqua;
+  height: 100vh;
+}
+
+.rightDiv {
+  width: 60%;
+  border-color: blueviolet;
+  height: 100vh;
+}
